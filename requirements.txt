@@ -1,0 +1,4 @@
+# The virtual environemment is in python, to create one:
+# virtualenv -p python3 venv
+beautifulsoup4~=4.5.3
+requests~=2.18.4
